@@ -5,7 +5,7 @@
 }
 body{
     display: flex;
-    background: #ee9ca7 → #ffdde1;
+    background: linear-gradient(to left, #ffdde1 0.4%, #ee9ca7 100%);
     justify-content: center;
     align-items: center;
     min-height: 100vh;
